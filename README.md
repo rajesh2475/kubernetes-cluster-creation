@@ -1,4 +1,4 @@
-# kubernetes-cluster-creation
+# kubernetes-cluster-creation (kubeadmin)
 
 Create an cluster with kubeadm
   1. worker node = 2
