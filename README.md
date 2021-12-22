@@ -89,6 +89,7 @@ Once you complete installation, we need to initilize control plane on master mac
 # Create cluster using rke
    - https://rancher.com/docs/rke/latest/en/installation/
    - https://itnext.io/setup-a-basic-kubernetes-cluster-with-ease-using-rke-a5f3cc44f26f
+   - https://gist.github.com/gopalsareen/1cd88a117f9d2311c7875bba7966ad27
 
   
   
