@@ -84,6 +84,10 @@ Once you complete installation, we need to initilize control plane on master mac
   
 # CREATE AN CLUSTER IN AWS USING KOPS
   Reference : https://www.upnxtblog.com/index.php/2018/04/23/kubernetes-tutorial-create-kubernetes-cluster-on-aws-with-kops/
+  
+
+# Create cluster using rke
+   - https://rancher.com/docs/rke/latest/en/installation/
 
   
   
