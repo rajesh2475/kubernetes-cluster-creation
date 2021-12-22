@@ -73,7 +73,7 @@ Once you complete installation, we need to initilize control plane on master mac
  1. sudo kubectl get pods --all-namespaces
  2. sudo kubectl get nodes
   
- # token expired
+ # If token expired 
     kubeadm token list (token expires in 24 hrs) ------------ on master
       - If you are trying to add new node after soma days since the token is will be expired in 24 hrs, you need to create an new token so that it will allow to add the node
       - kubeadm token create --print-join-command        --------- Copy the o/p command and paste it in the instance which you have created recently, to that it will add the node to the cluster
