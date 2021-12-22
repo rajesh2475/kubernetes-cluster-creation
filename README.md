@@ -80,6 +80,10 @@ Once you complete installation, we need to initilize control plane on master mac
   
 # Get the lost config file
    - reference : https://stackoverflow.com/questions/54841703/kubernetes-lost-kube-config
+  
+  
+# CREATE AN CLUSTER IN AWS USING KOPS
+  Reference : https://www.upnxtblog.com/index.php/2018/04/23/kubernetes-tutorial-create-kubernetes-cluster-on-aws-with-kops/
 
   
   
